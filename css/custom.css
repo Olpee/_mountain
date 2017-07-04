@@ -1,0 +1,54 @@
+.banner {
+  background:url(../images/bg_header.jpg);
+  background-size: cover;
+  background-position: center center;
+  height: 100%;
+  min-height: 100%;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  margin:0;
+  padding:0;
+}
+h1{
+  color: white;
+  font-size: 60px;
+  position: absolute;
+  margin-left: 740px;
+  margin-top: -400px;
+}
+p{
+  color: white;
+  position: relative;
+  margin-top: -200px;
+  margin-left: 620px;
+  width: 800px;
+  font-size: 25px;
+}
+.btn{
+  color: white;
+  border: none;
+  background: #36c4c5;
+  height: 50px;
+  font-size: 25px;
+  width: auto;
+
+
+}
+.btn1{color: white;
+  border: none;
+  background: #f52257;
+  height: 50px;
+  font-size: 25px;
+  width: auto;
+  margin-left: 800px;
+  margin-top: -50px;
+
+}
+#about {
+  display: block;
+}
+h2{
+  width: 500px;
+
+}
